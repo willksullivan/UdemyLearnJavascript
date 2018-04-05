@@ -3,6 +3,6 @@ for (var x = 0; x <=10; x++){
         document.writeln(x + " is even <br>");
     }
     else{
-        document.writeln(x + " is odd <br>");
+        //document.writeln(x + " is odd <br>");
     }
 }
